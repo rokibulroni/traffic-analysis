@@ -5,5 +5,5 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/rialms/traffic-analysis?style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/rialms/traffic-analysis)
 ![Docker Pulls](https://img.shields.io/docker/pulls/rialms/traffic-analysis?label=Docker%20Pull)
-[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/rialms)
+[![Channel](https://img.shields.io/badge/Join%20Newsletter-!-red)](https://www.rokibulroni.com)
 [![rialms](https://cdn.jsdelivr.net/gh/rialms/resources@master/pu.webp)](https://github.com/rialms/traffic-analysis/blob/main/traffic_final_project/output.mp4)
